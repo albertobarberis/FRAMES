@@ -15,6 +15,3 @@ SEE HOW IT WORKS : https://tamburo11.github.io/frames_web/#
 if you find some bugs report to 
 albertobarberis11@gmail.com
 me@bienoise.com
-
-
-
