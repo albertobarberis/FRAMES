@@ -1,7 +1,7 @@
 # FRAMES
 
 This is the web page of FRAMES
-a cool tool for graphical spectral processing for M4L
+a cool tool for graphical spectral processing with Ableton Live
 
 ![alt text](https://github.com/tamburo11/frames/blob/master/pic1.png)
 
