@@ -10,7 +10,7 @@ and Alberto Ricca (www.bienoise.com)
 
 [ based on the amazing work by Jean-François Charles ]
 
-SEE HOW IT WORKS : https://tamburo11.github.io/frames_web/#
+SEE HOW IT WORKS : https://albertobarberis.github.io/FRAMES/
 
 if you find some bugs report to 
 albertobarberis11@gmail.com
