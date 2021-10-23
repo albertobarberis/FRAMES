@@ -14,6 +14,6 @@ WEB PAGE : https://albertobarberis.github.io/FRAMES/
 
 DOWNLOAD : https://github.com/albertobarberis/FRAMES/blob/master/FRAMES_v2.amxd
 
-if you find some bugs report to 
+if you find some bugs report to  
 alberto.barberis@conservatorio.ch  
 me@bienoise.com
