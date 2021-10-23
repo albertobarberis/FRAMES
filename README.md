@@ -3,7 +3,7 @@
 This is the web page of FRAMES
 a cool tool for graphical spectral processing with Ableton Live
 
-![alt text](https://github.com/tamburo11/frames/blob/master/pic1.png)
+![alt text](https://github.com/tamburo11/frames/blob/master/frames_v2.png)
 
 developed by Alberto Barberis (www.albertobarberis.it) 
 and Alberto Ricca (www.bienoise.com)
