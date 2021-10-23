@@ -1,7 +1,7 @@
 # FRAMES
 
-This is the web page of FRAMES
-a cool tool for graphical spectral processing with Ableton Live
+This is the web page of FRAMES (version 2 _ 2021)
+a tool for graphical spectral processing for Ableton Live created with Max for Live
 
 ![alt text](https://github.com/tamburo11/frames/blob/master/frames_v2_pic1.png)
 
