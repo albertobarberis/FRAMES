@@ -37,7 +37,7 @@ $("ul.navbar-nav li").each(function() {
 
 // inserisco i dati della introduzione
 $(document).ready(function() {
-    $(".container").load("home.html");  
+    $(".container").load("info.html");  
     
 });
 
