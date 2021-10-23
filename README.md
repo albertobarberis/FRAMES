@@ -1,5 +1,7 @@
 # FRAMES
 
+FRAMES VERSION 2 IS OUT !!
+
 FRAMES is a simple and free graphical spectral processing tool for [Ableton Live](https://www.ableton.com/).  
 With it you can synthesize unexpected sounds, complex spectral textures and irregular rhythmic loops.
 
