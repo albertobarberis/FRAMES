@@ -11,11 +11,11 @@ Developed with [Max for Live](https://www.ableton.com/en/live/max-for-live/) by 
 
 developed by [Alberto Barberis](www.albertobarberis.it) and [Alberto Ricca/Bienoise](www.bienoise.com)
 
-[INFO, MANUAL AND EXAMPLES](https://albertobarberis.github.io/FRAMES/)
+&#8680; [INFO, MANUAL AND EXAMPLES](https://albertobarberis.github.io/FRAMES/)
 
-[DOWNLOAD FRAMES M4L DEVICE](https://github.com/albertobarberis/FRAMES/blob/master/FRAMES_v2.0.amxd)
+&#8680; [DOWNLOAD FRAMES M4L DEVICE](https://github.com/albertobarberis/FRAMES/blob/master/FRAMES_v2.0.amxd)
 
-[DOWNLOAD FRAMES STEREO EFFECT RACK WITH SIMPLE MACROS FOR LIVE 11](https://github.com/albertobarberis/FRAMES/blob/master/FRAMES%20stereo%20rack%20Live%2011%20Project.zip)
+&#8680; [DOWNLOAD FRAMES STEREO EFFECT RACK WITH SIMPLE MACROS FOR LIVE 11](https://github.com/albertobarberis/FRAMES/blob/master/FRAMES%20stereo%20rack%20Live%2011%20Project.zip)
 
 if you find some bugs report to  
 alberto.barberis@conservatorio.ch  
