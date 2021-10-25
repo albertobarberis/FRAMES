@@ -24,13 +24,27 @@
       <br>
 
       <p class="lead myline">
+        <b class="titoletti"> DOWNLOAD F<span class="erre">R</span>AMES </b> 
+     </p>
+
+     <div class="normal_text">
+      FRAMES is a free M4L device, developed by <a href="http://www.albertobarberis.it/" target="_blank">Alberto Barberis</a> 
+      and Alberto Ricca/<a href="http://www.bienoise.com/" target="_blank">Bienoise</a> and licensed under a <a rel="license" target="_blank" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+      <br><br>
+      &#8680; <a href="https://github.com/albertobarberis/FRAMES/blob/master/FRAMES_v2.0.amxd" target="_blank">DOWNLOAD FRAMES M4L DEVICE</a>. 
+      <br>  &#8680; <a href="https://github.com/albertobarberis/FRAMES/blob/master/FRAMES%20stereo%20rack%20Live%2011%20Project.zip" target="_blank">DOWNLOAD FRAMES STEREO EFFECT RACK WITH SIMPLE MACROS FOR LIVE 11</a>. 
+
+  </div>
+
+      <p class="lead myline">
          <b class="titoletti"> WHAT IS F<span class="erre">R</span>AMES </b> 
       </p>
 
       <div class="normal_text">
 
         
-        FRAMES is a simple and free graphical spectral processing tool for  <a href="https://www.ableton.com/" target="_blank">Ableton Live</a>. With it you can synthesize unexpected sounds, complex spectral textures and irregular rhythmic loops. 
+        FRAMES is a simple and free graphical spectral processing tool for  <a href="https://www.ableton.com/" target="_blank">Ableton Live</a>. 
+        With it you can synthesize unexpected sounds, complex spectral textures and irregular rhythmic loops. 
         <br> <br>
 
 Developed with  
@@ -39,7 +53,7 @@ Developed with
         and Alberto Ricca/<a href="http://www.bienoise.com/" target="_blank">Bienoise</a>,
         
         FRAMES allows you to record a sample from an Ableton Live track, 
-        to manipulate graphically its sonogram and than to resynthesize it in real-time and 
+        to manipulate graphically its sonogram and then to resynthesize it in real-time and 
         in loop. 
 
         The implementation of this technique is based on the amazing work by Jean-Francois Charles. For more info check 
@@ -51,12 +65,15 @@ Developed with
         </div>
 
         
-        With FRAMES you create a 2D image of the sonogram of a sound source (with FFT analysis). Than you  
-        manipulate it with some graphical transformations before resynthesizing it in loop and in real-time. 
+        FRAMES writes your sound source into a 2D image (a sonogram), 
+        allowing you to manipulate it with a wide range of graphical transformations 
+        while it's resynthesized in real-time via Fast Fourier Transform.
+
+        <br><br> The record and loop length can be freely chosen or synced with the tempo and the time signature of Ableton Live. 
+        The FFT analysis can be performed with a size of 512, 1024, 2048, 4096 samples, adapting it to the characteristics of 
+        the original sound source. 
         
-        <br><br>The loop region is in sync with the tempo and the time signature of Ableton Live. 
-        The FFT analysis can be performed with a size of 512, 1024, 2048, 4096 samples 
-        (adapting it to the type of sound material). 
+       
         <br><br>
         The possible sound-image transformations are: <br><br>
         
@@ -100,24 +117,26 @@ Developed with
          <b class="titoletti"> HOW TO USE F<span class="erre">R</span>AMES </b> 
       </p>
       <div class="myimageDiv">
-        <img src="pic2.png"  class="firstImage nImage">
+        <img src="frames_v2_pic2.png"  class="firstImage nImage">
     </div>
       <div class="normal_text">
           <ol>
 
-              <li>Send an audio to the device (for example playing a clip in the track that contains the device);</li>
-              <br><li>Choose the FFT frame size ① (adapting it to the type of sound material: 512 samples for percussive sounds, 4096 for texture sounds);</li>
+              <li>Feed some audio to FRAMES (for example, playing a clip or arming the track that contains the device);</li>
+              <br><li>Choose the FFT frame size ① (adapting it to the type of sound material: 512 samples works best on percussive sounds with clear transients, 4096 on more complex textures);</li>
               <br><li>Choose the length (in bars or seconds) of the sample that you want to record and process ②;</li>
-              <br><li>Clik the Record button ③ (if you ckick on the Play button ④ you will hear the real-time resynthesis);</li>
-              <br><li>Start your graphical manipulation:
+              <br><li>Choose between Free ③ running (record and play will start and stop independently from Ableton transport) or Sync;</li>
+              <br><li>Fill the buffer by clicking the Record button ④ - or starting the global transport in Sync mode;</li>
+              <br><li>Start the resynthesis by clicking on the Play button ⑤ - in Sync mode, it starts automatically once the buffer is filled;</li>
+              <br><li>Go crazy with your graphical manipulation:
                   <ul>
-                      <li>using the two types of gate effect ⑤ (or bypass it clicking on pass);</li>
-                      <li>changing the playback speed ⑥;</li>
-                      <li>changing the amount of the "spectral reverb" ⑦;</li>
-                      <li>changing the transformation matrix parameters being inspired by the symbols ⑧  (when everything goes crazy use the Reset button);</li>
+                      <li>using the two types of Gate effect ⑥ (or bypass it clicking on pass);</li>
+                      <li>changing the playback Speed ⑦;</li>
+                      <li>changing the amount of the "spectral reverb" ⑧;</li>
+                      <li> changing the transformation matrix parameters, inspired by the symbols ⑨ (if you lose control, use the Reset button ⑩);</li>
                   </ul></li>
-                <br><li>When you find a configuration that you like save it in a preset (1 or 2) and try to interpolate between presets;</li>
-                <br><li>Set your desired output gain and Dry/Wet amount;</li>
+                <br><li>When you find a good configuration, save it in one of the two presets and see what happens if you interpolate between them ⑪;</li>
+                <br><li>You can also set your desired output gain and Dry/Wet amount ⑫;</li>
                 <br><li>Enjoy!</li>
                 
             </ol>
