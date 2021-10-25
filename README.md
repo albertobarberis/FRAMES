@@ -11,9 +11,9 @@ Developed with [Max for Live](https://www.ableton.com/en/live/max-for-live/) by 
 
 developed by [Alberto Barberis](www.albertobarberis.it) and [Alberto Ricca/Bienoise](www.bienoise.com)
 
-INFO, MANUAL AND EXAMPLES : https://albertobarberis.github.io/FRAMES/
+[INFO, MANUAL AND EXAMPLES](https://albertobarberis.github.io/FRAMES/)
 
-DOWNLOAD : https://github.com/albertobarberis/FRAMES/blob/master/FRAMES_v2.0.amxd
+[DOWNLOAD](https://github.com/albertobarberis/FRAMES/blob/master/FRAMES_v2.0.amxd)
 
 if you find some bugs report to  
 alberto.barberis@conservatorio.ch  
