@@ -15,7 +15,7 @@ developed by [Alberto Barberis](www.albertobarberis.it) and [Alberto Ricca/Bieno
 
 [DOWNLOAD M4L DEVICE](https://github.com/albertobarberis/FRAMES/blob/master/FRAMES_v2.0.amxd)
 
-[DOWNLOAD STEREO EFFECT RACK WITH SIMPLE MACROS FOR LIVE 11](https://github.com/albertobarberis/FRAMES/blob/master/FRAMES_v2.0.amxd)
+[DOWNLOAD STEREO EFFECT RACK WITH SIMPLE MACROS FOR LIVE 11](https://github.com/albertobarberis/FRAMES/blob/master/FRAMES%20stereo%20rack%20Live%2011%20Project.zip)
 
 if you find some bugs report to  
 alberto.barberis@conservatorio.ch  
